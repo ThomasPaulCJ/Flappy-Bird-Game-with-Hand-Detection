@@ -19,26 +19,28 @@ Customizable gesture recognition settings.
 - PyCharm: Download and install PyCharm from JetBrains.
 - Python 3.x: Install Python 3.x on your system.
 - OpenCV: Install OpenCV library for Python using pip install opencv-python.
+- 
 # Setup Instructions
-1.Clone the repository:
+
+1. Clone the repository:
   
   bash
   git clone https://github.com/ThomasPaulCJ/Flappy-Bird-Game-with-Hand-Detection
   
-2.Open the project in Unity.
+2. Open the project in Unity.
 
-3.Ensure that the necessary dependencies are installed and configured within Unity.
+3. Ensure that the necessary dependencies are installed and configured within Unity.
 
-4.Set up your webcam and ensure it is properly detected by Unity.
+4. Set up your webcam and ensure it is properly detected by Unity.
 
-5.Run the project in Unity to start playing.
+5. Run the project in Unity to start playing.
 
 # Usage
 
-1.Launch the Unity project.
-2.Follow on-screen instructions to calibrate hand gestures.
-3.Start playing the game and control the bird's movement by gesturing with your hands.
-4.Enjoy the immersive gaming experience!
+1. Launch the Unity project.
+2. Follow on-screen instructions to calibrate hand gestures.
+3. Start playing the game and control the bird's movement by gesturing with your hands.
+4. Enjoy the immersive gaming experience!
 
 # Contributing
 
