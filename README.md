@@ -21,8 +21,10 @@ Customizable gesture recognition settings.
 - OpenCV: Install OpenCV library for Python using pip install opencv-python.
 # Setup Instructions
 1.Clone the repository:
+  
   bash
   git clone https://github.com/ThomasPaulCJ/Flappy-Bird-Game-with-Hand-Detection
+  
 2.Open the project in Unity.
 
 3.Ensure that the necessary dependencies are installed and configured within Unity.
