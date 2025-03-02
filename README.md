@@ -18,7 +18,6 @@ Interactive and immersive gaming experience.
 - PyCharm: Download and install PyCharm from JetBrains.
 - Python 3.x: Install Python 3.x on your system.
 - OpenCV: Install OpenCV library for Python using pip install opencv-python.
-- 
 # Setup Instructions
 
 1. Clone the repository:
