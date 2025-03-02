@@ -9,7 +9,6 @@ Flappy Bird with Hand Gesture is a project that combines the classic Flappy Bird
 Control the bird's movement using hand gestures detected by a webcam.
 Classic Flappy Bird gameplay mechanics with intuitive gesture-based controls.
 Interactive and immersive gaming experience.
-Customizable gesture recognition settings.
 
 # Installation
 
